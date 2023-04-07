@@ -8,6 +8,8 @@
   digits, number of symbols, and which symbols to use.
 
 
+## Instalation
+
 ## Citations
 
 
